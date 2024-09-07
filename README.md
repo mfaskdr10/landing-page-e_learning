@@ -1,4 +1,4 @@
-# React + Vite
+# Project React JS - Responsive E-learning Education website
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
